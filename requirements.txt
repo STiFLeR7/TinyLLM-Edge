@@ -1,0 +1,6 @@
+transformers
+llama-cpp-python
+bitsandbytes
+flash-attn
+vLLM
+langchain
