@@ -1,6 +1,6 @@
 transformers
 llama-cpp-python
-bitsandbytes
-flash-attn
-vLLM
-langchain
+accelerate
+auto-gptq
+xformers
+exllama
