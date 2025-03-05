@@ -13,4 +13,4 @@ __pycache__/ ignore
 *.lock ignore
 # Ignore everything in models except Mistral-7B-GPTQ
 models/*
-!models/Mistral-7B-GPTQ
+!models/Phi2
