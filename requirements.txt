@@ -1,6 +1,6 @@
 transformers
 llama-cpp-python
 accelerate
-auto-gptq
+exllama
 xformers
 exllama
